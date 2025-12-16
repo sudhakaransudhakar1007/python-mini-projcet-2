@@ -1,2 +1,17 @@
-# python-mini-projcet-2
-A simple Python Number Guessing Game where the user guesses a randomly generated number, receives hints (too high / too low), and can play multiple rounds. Built using Python loops, functions, and conditionals.
+# Number Guessing Game 🎯
+
+This is a simple Python game where the computer selects a random number and the user tries to guess it.
+
+## Features
+- Random number generation
+- Unlimited attempts
+- Attempt counter
+- Play again option
+
+## Technologies Used
+- Python
+
+## How to Run
+1. Download the file
+2. Run `number_guessing_game.py`
+3. Follow on-screen instructions
